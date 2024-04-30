@@ -17,7 +17,44 @@ export default {
   curriculum:, 'https://allankrc.github.io/MyProfile/',
     contato: '(84) 98627-1371',
   description: {
-    myProfile: `Olá! .`,
+    myProfile: `Olá! Me chamo Allan, tenho 35 anos, sou formado em Tecnologia em Fabricação Mecânica e atualmente estudo Gestão Ambiental peo IFRN CNAT.`,
+    myObjective: 'RPA', 'ANALISE DE DADOS', 'VISÃO COMPUTACIONAL' ,'BACKEND'`
+  },
+  skills: {
+    languages: [
+      'Python', 'PHP', 'JS'
+    ],
+    backend: [
+      'Node.js', 'Express', 'MySQL', 'MongoDB', 'PHP', 'PYTHON'
+    ],
+    frontend: [
+      'HTML5', 'CSS3', 'Javascript'
+    ],
+    tools: [
+      'GIT', 'Github'
+    ],
+    designTools: [
+      'Canva',
+    ],
+  },
+};
+
+Contatos: 👇
+github linkedin email email whatsApp
+
+
+Technologies and Tools 💡
+html5 css3 javascript typescript python mysql mongodb docker linux git github
+
+
+Statistics 📈
+Top Languages
+Top Languages
+GitHub Stats
+GitHub Stats of Allankrc
+GitHub Streak
+Allankrc
+ .`,
     myObjective: 'RPA', 'ANALISE DE DADOS', 'VISÃO COMPUTACIONAL' ,'BACKEND'`
   },
   skills: {
